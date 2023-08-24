@@ -3,7 +3,6 @@
 <!--
 **rohitchouhan07/rohitchouhan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m a computer science graduate who is interested in operating systems and system security.
 - 🌱 I’m currently learning Rust programming language.
