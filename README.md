@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning Rust programming language.
 - 💬 Ask have worked as SDE at Amazon.
 - 📫 How to reach me: rohitchouhan07@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Check out my blog here - https://rohitchouhan07.github.io/blog.htmls
 
